@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "346919271014",
+    "project_id": "cap1-final",
+    "storage_bucket": "cap1-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346919271014:android:82d35c0f1cd60612234ba7",
+        "android_client_info": {
+          "package_name": "codes.nukki.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "346919271014-tfkcgj0ge2rs142r0isgja3sn0ia8esd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCupmq97H-oO8A39zpBh0nmhaUCjP2Tbvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "346919271014-tfkcgj0ge2rs142r0isgja3sn0ia8esd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
